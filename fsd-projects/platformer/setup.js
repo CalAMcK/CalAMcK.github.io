@@ -96,6 +96,7 @@ let halleImage;
 let animationDetails = {};
 
 var collectableList = {
+  circut: {image: "https://imgs.search.brave.com/JJ2YBHzt1d2oZlAZsOPbol4CuQ5KLGUWUYW6bNdb2_4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wbmcu/cG5ndHJlZS5jb20v/ZWxlbWVudF9waWMv/MTcvMDgvMjEvNWQ0/NTgyNTdhZGViZTAz/ZDIzODA4NDQ2NDY0/MjU4ZjIuanBn"},
   database: { image: "images/collectables/database.png" },
   diamond: { image: "images/collectables/diamond-head.png" },
   grace: { image: "images/collectables/grace-head.png" },
