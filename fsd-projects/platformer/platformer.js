@@ -27,7 +27,7 @@ $(function () {
     //////////////////////////////////
 
     // TODO 1 - Enable the Grid
-    toggleGrid();
+    // toggleGrid();
 
 
     // TODO 2 - Create Platforms
@@ -51,9 +51,9 @@ createCollectable("circut", 450, 100, 0, 0)
 createCannon("bottom", 800, 700)
     
     
-    //////////////////////////////////
+    // ////////////////////////////////
     // ONLY CHANGE ABOVE THIS POINT //
-    //////////////////////////////////
+    // ////////////////////////////////
   }
 
   registerSetup(setup);
